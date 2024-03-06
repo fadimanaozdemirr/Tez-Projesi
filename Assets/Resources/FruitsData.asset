@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cafd91791e5e061498b057bbacbc7d74, type: 3}
+  m_Name: FruitsData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 785cc8e10919e6a40aead02f64f1fc64, type: 3}
+    answer: muz
+  - questionImage: {fileID: 21300000, guid: 1b8909ef372639e41a5b3228dcaa4c90, type: 3}
+    answer: elma
+  - questionImage: {fileID: 21300000, guid: 3b2644cd6c339f541a8791575b72dc92, type: 3}
+    answer: karpuz
+  - questionImage: {fileID: 21300000, guid: 82175a707ef062f40b14ef06af4d3cbe, type: 3}
+    answer: UZUM
+  - questionImage: {fileID: 21300000, guid: 4a595ae30d6f13048bca2b6e03f5bd82, type: 3}
+    answer: ANANAS
+  - questionImage: {fileID: 21300000, guid: 911390a60d5c6ef42bd3a3c78d3f4855, type: 3}
+    answer: ARMUT
+  - questionImage: {fileID: 21300000, guid: d497998a3e577944bbeb56d2ef1d70da, type: 3}
+    answer: KAYISI
+  - questionImage: {fileID: 21300000, guid: 0c2f132b07065e6469fdd1181f5b9ef8, type: 3}
+    answer: KIRAZ
+  - questionImage: {fileID: 21300000, guid: f4b328bd184e19343b77a77a97e7552d, type: 3}
+    answer: KIVI
+  - questionImage: {fileID: 21300000, guid: 90e43741f4de77349a7c5dbc26a006c7, type: 3}
+    answer: LIMON
+  - questionImage: {fileID: 21300000, guid: 8f2bcdb44d40ecb4183fb542b49b51dc, type: 3}
+    answer: NAR
+  - questionImage: {fileID: 21300000, guid: 109b62934312d51488f68ab6eb09a8f5, type: 3}
+    answer: CILEK

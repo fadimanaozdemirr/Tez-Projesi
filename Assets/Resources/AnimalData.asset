@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cafd91791e5e061498b057bbacbc7d74, type: 3}
+  m_Name: AnimalData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: 8a66d6eb69d0b4445be9ed2914c21a66, type: 3}
+    answer: aslan
+  - questionImage: {fileID: 21300000, guid: c804b69c875131d4790a96ab9cc006ea, type: 3}
+    answer: BALINA
+  - questionImage: {fileID: 21300000, guid: 509f2ea83bfc2834ea82dd86252e9c55, type: 3}
+    answer: BALIK
+  - questionImage: {fileID: 21300000, guid: 53dc8cc49aa83be45a2687224f751d15, type: 3}
+    answer: FIL
+  - questionImage: {fileID: 21300000, guid: 28c05e597aa43b847b45b834c8be5956, type: 3}
+    answer: KEDI
+  - questionImage: {fileID: 21300000, guid: 3986e7d60cd6b754fa5d54dab18b5ee5, type: 3}
+    answer: KELEBEK
+  - questionImage: {fileID: 21300000, guid: cc9f812304ec9f44a9e35eee47489b2b, type: 3}
+    answer: KUS
+  - questionImage: {fileID: 21300000, guid: 2585aedd06e148943ba6896182ef9463, type: 3}
+    answer: maymun
+  - questionImage: {fileID: 21300000, guid: 98c21cf7c7ce30a4bb24af267fe5e5c0, type: 3}
+    answer: panda
+  - questionImage: {fileID: 21300000, guid: 21086bef31f44434dba4af70e0f29a86, type: 3}
+    answer: tavuk
+  - questionImage: {fileID: 21300000, guid: a4a7f67ceea7661468be69aca8b47142, type: 3}
+    answer: TILKI
+  - questionImage: {fileID: 21300000, guid: 30b2f0f156bb43e4c8e26d2b005e5ea9, type: 3}
+    answer: zebra
+  - questionImage: {fileID: 21300000, guid: 280a84b5db84f7849b19cf5fe389644f, type: 3}
+    answer: ZURAFA

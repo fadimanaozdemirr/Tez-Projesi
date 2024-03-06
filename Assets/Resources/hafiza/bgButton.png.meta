@@ -1,0 +1,687 @@
+fileFormatVersion: 2
+guid: fabb0d134ccb03541ac6b2810aa5caa7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bgButton_0
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2172
+        width: 625
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb79f97a0a9ba64a882d0f4ea99da46
+      internalID: 1295362259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_2
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 2167
+        width: 369
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f151646b30f54459f1cb1edce87707
+      internalID: 1618459542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_3
+      rect:
+        serializedVersion: 2
+        x: 1437
+        y: 2172
+        width: 313
+        height: 633
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0291a24dd5fd4b74ba8c3aca6a74e802
+      internalID: 1487900652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_5
+      rect:
+        serializedVersion: 2
+        x: 1989
+        y: 2166
+        width: 202
+        height: 643
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff317b63bcdfbb4f8ca196cc140481b
+      internalID: 601533234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_6
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 2177
+        width: 396
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5dcfaa7eb75404784cd37ce96702b5
+      internalID: 1021678057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_10
+      rect:
+        serializedVersion: 2
+        x: 2980
+        y: 2167
+        width: 330
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42bbeb3a44d4dc445abbb4c02ab2b3f1
+      internalID: -1238173869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_13
+      rect:
+        serializedVersion: 2
+        x: 3412
+        y: 2177
+        width: 367
+        height: 636
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90184b1411ed4f41b9287f2b238d6e0
+      internalID: -2056064307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_22
+      rect:
+        serializedVersion: 2
+        x: 1428
+        y: 2394
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bc37eedc241be8479e69a00e858c15d
+      internalID: -33745577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_36
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 1476
+        width: 428
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf08ac9ee35050a4f93375e672e8ad38
+      internalID: 790076790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_38
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1470
+        width: 1209
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ac8e4af417bb8a49bb12172d0e92bfa
+      internalID: -785787518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_41
+      rect:
+        serializedVersion: 2
+        x: 2170
+        y: 1475
+        width: 779
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cfaab03291997f48836375f4828767c
+      internalID: 1186011997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_45
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 1473
+        width: 614
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121496ef67667bc4bbdd591d3eb0a1f1
+      internalID: -262985801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_52
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 1085
+        width: 229
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2881d11df04f1644fbe125da13978fe2
+      internalID: 1406952167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_53
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 765
+        width: 661
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98d6a4aa220449e42a8c40a8dc8fbf17
+      internalID: -1263254280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_57
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 766
+        width: 628
+        height: 627
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45a619065d030234ebe8915fa360198a
+      internalID: 2004204989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_58
+      rect:
+        serializedVersion: 2
+        x: 2466
+        y: 763
+        width: 1310
+        height: 626
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c8decb498ef077479c4eab4d06c08a6
+      internalID: -885076866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_83
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 89
+        width: 326
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1013a9315d315794fb4a1c2fd4406d9a
+      internalID: -295116330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_85
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 55
+        width: 1109
+        height: 638
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dcc27b3d7a26704f80a3035822d0bd2
+      internalID: 102625894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_86
+      rect:
+        serializedVersion: 2
+        x: 1887
+        y: 64
+        width: 535
+        height: 631
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308de99823afa34b8089b3b381e03c6
+      internalID: -1666277771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_88
+      rect:
+        serializedVersion: 2
+        x: 2601
+        y: 60
+        width: 697
+        height: 629
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b52ef0aba7eb5c458dbfefa95d52896
+      internalID: 994302289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bgButton_89
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 67
+        width: 422
+        height: 618
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc8ab751d6760574cbd2590dc66c7183
+      internalID: -708543228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bgButton_2: 1618459542
+      bgButton_26: -1463355560
+      bgButton_84: 820792639
+      bgButton_95: -821041347
+      bgButton_34: -2042945331
+      bgButton_31: -248587262
+      bgButton_99: -1534509800
+      bgButton_87: 723807693
+      bgButton_24: 352941128
+      bgButton_82: 91197216
+      bgButton_59: -68817831
+      bgButton_71: -1208231069
+      bgButton_58: -885076866
+      bgButton_55: 1378338035
+      bgButton_81: -2014055441
+      bgButton_16: -1942148946
+      bgButton_43: -1905805896
+      bgButton_41: 1186011997
+      bgButton_93: -806428046
+      bgButton_35: 2026712588
+      bgButton_94: -84955994
+      bgButton_4: -1369949383
+      bgButton_46: 550689658
+      bgButton_79: 589746719
+      bgButton_17: 853395212
+      bgButton_51: -495494175
+      bgButton_44: 662035557
+      bgButton_3: 1487900652
+      bgButton_70: -552258655
+      bgButton_20: 1585397782
+      bgButton_42: -1617713030
+      bgButton_1: -1889176882
+      bgButton_83: -295116330
+      bgButton_63: 268757925
+      bgButton_96: -125796751
+      bgButton_66: -227925730
+      bgButton_77: -1516458761
+      bgButton_45: -262985801
+      bgButton_8: -472345863
+      bgButton_33: 313800776
+      bgButton_11: -1880762174
+      bgButton_40: 180921331
+      bgButton_22: -33745577
+      bgButton_61: 823268787
+      bgButton_29: 582761609
+      bgButton_85: 102625894
+      bgButton_9: 858516382
+      bgButton_53: -1263254280
+      bgButton_54: -1649384119
+      bgButton_65: 1887396311
+      bgButton_47: -41275346
+      bgButton_37: -1007228910
+      bgButton_32: -2067924299
+      bgButton_56: -97085900
+      bgButton_68: -1952478115
+      bgButton_86: -1666277771
+      bgButton_13: -2056064307
+      bgButton_5: 601533234
+      bgButton_60: -241365724
+      bgButton_49: 6989233
+      bgButton_92: -1467827211
+      bgButton_72: 27983183
+      bgButton_62: -343793968
+      bgButton_27: -61848883
+      bgButton_18: -1823665084
+      bgButton_14: 1413642347
+      bgButton_19: -985779493
+      bgButton_38: -785787518
+      bgButton_76: 781545401
+      bgButton_57: 2004204989
+      bgButton_98: 2018244451
+      bgButton_73: 1219209099
+      bgButton_10: -1238173869
+      bgButton_39: 111129529
+      bgButton_15: -1014549978
+      bgButton_28: 2126816308
+      bgButton_80: 1734958811
+      bgButton_75: -1842825529
+      bgButton_89: -708543228
+      bgButton_97: -510826084
+      bgButton_7: 1717408609
+      bgButton_48: -394942842
+      bgButton_88: 994302289
+      bgButton_23: 370971819
+      bgButton_12: 886617029
+      bgButton_78: -484005074
+      bgButton_36: 790076790
+      bgButton_30: -529195539
+      bgButton_21: 1726686258
+      bgButton_52: 1406952167
+      bgButton_50: 1787313719
+      bgButton_90: 329477882
+      bgButton_64: 1615345420
+      bgButton_69: -1409871698
+      bgButton_67: 1880344003
+      bgButton_6: 1021678057
+      bgButton_74: 323153616
+      bgButton_25: 822364821
+      bgButton_91: -1689862647
+      bgButton_0: 1295362259
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

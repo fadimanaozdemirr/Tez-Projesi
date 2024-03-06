@@ -1,0 +1,461 @@
+fileFormatVersion: 2
+guid: 63876f407b1e0974f9fbead628992334
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: balik_2
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 1173
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c64ef515d6fabbe4fb4611fbd31b41af
+      internalID: -275537593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balik_5
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 1173
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa41f911aea88af4483695835b2a6d7e
+      internalID: 1536427272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balik_7
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1173
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188329a00236a8d41b5ac2519f46c0de
+      internalID: 2108148705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balik_9
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 1174
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ed080252d6659149b531b45ea74fd77
+      internalID: -1724741064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balik_39
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 811
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d86b9efc0a7fcd4182e318029d6d248
+      internalID: 851371313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balik_41
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 811
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98534d85e9dc9fb47b1eef36693f970b
+      internalID: 1899252846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balik_43
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 813
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15614c718ac7050499463f802446bc28
+      internalID: -2104607286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: balik_73
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 451
+        width: 283
+        height: 283
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f9d1eb8d9d1a149a1078679f544a42
+      internalID: 926583195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      balik_59: -1906602799
+      balik_19: -1157865567
+      balik_93: -275537593
+      balik_109: 91064611
+      balik_4: -1706306267
+      balik_51: 1536427272
+      balik_136: -1063395100
+      balik_79: 2108148705
+      balik_116: 1250570932
+      balik_35: -1724741064
+      balik_30: 1159442979
+      balik_55: 435382877
+      balik_69: -921308191
+      balik_12: -1254752285
+      balik_25: -76280143
+      balik_95: -1228706046
+      balik_14: 570196263
+      balik_56: -1653364053
+      balik_119: -1188932461
+      balik_28: -353025636
+      balik_75: 282934423
+      balik_62: 1740131346
+      balik_0: 258701313
+      balik_121: -489279842
+      balik_96: -1318574360
+      balik_13: 1829827388
+      balik_84: -973069636
+      balik_94: 2077299055
+      balik_111: -206667784
+      balik_145: -427873027
+      balik_130: 1767823133
+      balik_87: -1191800186
+      balik_120: -68813486
+      balik_20: -30814387
+      balik_85: -1170132174
+      balik_15: -1442158738
+      balik_47: 1371226980
+      balik_77: -409594691
+      balik_80: -2123948537
+      balik_76: 851371313
+      balik_110: 2100797998
+      balik_43: 1899252846
+      balik_112: -1412490139
+      balik_68: -2104607286
+      balik_9: 344795196
+      balik_91: -1610503862
+      balik_44: -2130045089
+      balik_107: 1794032803
+      balik_42: -495084914
+      balik_58: 1754283841
+      balik_3: -936446698
+      balik_50: 1640530058
+      balik_67: 2129752050
+      balik_105: 1071041892
+      balik_102: 687423323
+      balik_127: -1296208955
+      balik_8: -2110737900
+      balik_52: -1238652646
+      balik_65: -1664509439
+      balik_106: 204770086
+      balik_129: -349130070
+      balik_5: -1880635409
+      balik_132: -1263405872
+      balik_7: 1884148972
+      balik_27: 1944469865
+      balik_48: 1945209600
+      balik_74: 1824792659
+      balik_122: -705329976
+      balik_104: 630228886
+      balik_135: -1780917111
+      balik_32: -1446901599
+      balik_31: 1118805988
+      balik_86: -1982901043
+      balik_41: -1033713012
+      balik_108: 926583195
+      balik_89: 952616864
+      balik_46: -988521472
+      balik_100: -2041662851
+      balik_40: 363839153
+      balik_63: -1016874824
+      balik_125: -1293336842
+      balik_143: 1061145810
+      balik_1: 710277589
+      balik_137: -2091333067
+      balik_72: 2144272125
+      balik_36: 1425772910
+      balik_123: -526590257
+      balik_139: 2071066347
+      balik_26: -323320449
+      balik_78: -1073301799
+      balik_39: 1080183092
+      balik_2: 2047606889
+      balik_98: -1542772534
+      balik_141: 1805181595
+      balik_29: 1819396242
+      balik_131: 200244829
+      balik_37: 1549020660
+      balik_60: 825006259
+      balik_117: -1826963472
+      balik_142: 1083658735
+      balik_57: 299021325
+      balik_24: 538687406
+      balik_10: -218756688
+      balik_97: -1516613979
+      balik_73: -957959916
+      balik_22: -1003917961
+      balik_49: -1980404968
+      balik_11: 1389918416
+      balik_61: -2089281442
+      balik_101: -1586784960
+      balik_133: -1740782974
+      balik_54: -112580951
+      balik_128: 1228629809
+      balik_146: 1427785186
+      balik_90: 1273409973
+      balik_33: -467194495
+      balik_83: 1705480302
+      balik_103: -1310124736
+      balik_92: 1420233562
+      balik_118: -395133653
+      balik_18: 2069324599
+      balik_16: -1197620688
+      balik_38: -254961357
+      balik_6: 764887624
+      balik_113: -1142825504
+      balik_53: 1836150371
+      balik_81: -1981475786
+      balik_126: -491765199
+      balik_17: 1445327818
+      balik_45: 1268381499
+      balik_99: -616147240
+      balik_64: 1097702718
+      balik_88: 1766640605
+      balik_82: 57773508
+      balik_115: 338711843
+      balik_114: 1668269808
+      balik_70: -1202368808
+      balik_124: 1200841870
+      balik_140: 1787291903
+      balik_66: -1758954822
+      balik_34: -391484122
+      balik_134: 1203620701
+      balik_144: -1433307790
+      balik_23: -259359423
+      balik_71: -1242121220
+      balik_138: 1951755568
+      balik_21: -1497709843
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

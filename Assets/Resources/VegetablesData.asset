@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cafd91791e5e061498b057bbacbc7d74, type: 3}
+  m_Name: VegetablesData
+  m_EditorClassIdentifier: 
+  questions:
+  - questionImage: {fileID: 21300000, guid: e51a00c65c5076c4e98c42d373737269, type: 3}
+    answer: BIBER
+  - questionImage: {fileID: 21300000, guid: 0d664b44f1612ab4795e12388049318b, type: 3}
+    answer: SOGAN
+  - questionImage: {fileID: -634828602, guid: ed866552fd3a29744a302bba57b47878, type: 3}
+    answer: DOMATES
+  - questionImage: {fileID: -213154455, guid: ed866552fd3a29744a302bba57b47878, type: 3}
+    answer: HAVUC
+  - questionImage: {fileID: -348936690, guid: ed866552fd3a29744a302bba57b47878, type: 3}
+    answer: PATATES
+  - questionImage: {fileID: 21300000, guid: 5ceb8658f3f80fb4aa0d62517d7e11d8, type: 3}
+    answer: MANTAR
